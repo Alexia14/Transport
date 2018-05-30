@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Transport</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_main">Valider</string>
+    <string name="textview_main">\nChoisissez un moyen de transport :</string>
+    <string name="choix_1">À Pied</string>
+    <string name="choix_2">En Vélo</string>
+    <string name="choix_3">En Voiture</string>
+    <string name="choix_4">En Bus</string>
+    <string name="choix_5">En Train</string>
+</resources>
